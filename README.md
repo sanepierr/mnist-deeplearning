@@ -1,5 +1,7 @@
 # MNIST Digit Classification (Deep Learning)
 
+
+
 Train a feedforward neural network to classify handwritten digits (0–9) from the [MNIST](http://yann.lecun.com/exdb/mnist/) dataset. The notebook includes training/validation curves, per-batch cost decrease visualization, and full evaluation metrics.
 
 ## Contents
@@ -34,3 +36,4 @@ pip install tensorflow numpy matplotlib seaborn scikit-learn pandas
 - Batch-level loss plot (cost decrease within epochs).
 - Per-class metrics table and classification report.
 - Confusion matrix heatmap and a short summary table of key metrics.
+
